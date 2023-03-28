@@ -1,4 +1,4 @@
 # Ignore markdown files
 
-rb_109_assessment/*.md
-rb_109_assessment/*.odt
+rb_109/*.md
+rb_109/*.odt

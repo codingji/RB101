@@ -1,4 +1,4 @@
 # Ignore markdown files
-rb_109/*.md
+*.md
 # Ignore libreOffice writer files
-rb_109/*.odt
+*.odt
